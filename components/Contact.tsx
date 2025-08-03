@@ -53,7 +53,7 @@ const Contact = () => {
         <div className="bg-gray-900 rounded-lg p-8 border border-gray-800">
           <h2 className="text-2xl font-bold text-white mb-4">Send us a Message</h2>
           <form
-            action="https://formspree.io/f/YOUR_UNIQUE_CODE" // Make sure to replace with your Formspree URL
+            action="https://formspree.io/f/mqaldgda"
             method="POST"
             className="space-y-4"
           >
