@@ -18,7 +18,8 @@ const Contact = () => {
       <div className="text-center mb-16">
         <h2 className="text-3xl font-bold text-white">Visit Us Today</h2>
         <p className="text-lg text-gray-400 mt-2">
-          Ready to experience exceptional dining? We'd love to welcome you to Madras.
+          {/* This is the corrected line: */}
+          Ready to experience exceptional dining? We&apos;d love to welcome you to Madras.
         </p>
         <p className="text-lg text-gray-400">Make a reservation or simply drop by!</p>
       </div>
